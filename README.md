@@ -1,4 +1,4 @@
-# Supervised-Learning
+# Supervised Learning
 ## Decision Trees Ensembles
 
 ### 1_Bagging_RandomForest
